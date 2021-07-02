@@ -1,0 +1,39 @@
+*{
+    font-family: 'Philosopher', sans-serif;
+    margin: 0%;
+    border: 0px;
+}
+nav{
+    background-color: black;
+    color: white;
+    
+
+}
+footer{
+background-color: black;
+color: rgb(252, 252, 252);
+text-decoration: none;
+margin:0%;
+padding: 0%;
+border: 0px;
+}
+ul{
+    list-style-type: none;
+}
+h1{
+    text-align: center;
+}
+.menu ul a:hover {
+    background-color: rgb(85, 84, 84);
+}
+form{
+    margin:100px;
+    
+}
+.info{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+/*font-family: 'Philosopher', sans-serif;
+font-family: 'Racing Sans One', cursive;*/

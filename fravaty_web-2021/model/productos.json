@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "campera1",
+        "descripcion": "talles del 2 al 5",
+        "stock": "68",
+        "categoria": "Camperas",
+        "precio": "1100",
+        "imagenes": "19702874.jpg"
+    },
+    {
+        "nombre": "campera2",
+        "descripcion": "jmki",
+        "stock": "89",
+        "categoria": "Buzos",
+        "precio": "3222",
+        "imagenes": "WhatsApp Image 2021-05-19 at 9.15.22 AM.jpeg"
+    },
+    {
+        "nombre": "campera3",
+        "descripcion": "fdvdvd",
+        "stock": "45",
+        "categoria": "Shores",
+        "precio": "32323",
+        "imagenes": "WhatsApp Image 2021-05-10 at 8.38.07 PM (4).jpeg"
+    },
+    {
+        "nombre": "buzos",
+        "descripcion": "jdjdjd",
+        "stock": "78",
+        "categoria": "Buzos",
+        "precio": "3222",
+        "imagenes": "WhatsApp Image 2021-05-10 at 8.38.07 PM.jpeg"
+    },
+    {
+        "nombre": "pantalon1",
+        "descripcion": "defefefefef",
+        "stock": "34",
+        "categoria": "Pantalones",
+        "precio": "345",
+        "imagenes": "WhatsApp Image 2021-04-21 at 11.56.23.jpeg"
+    },
+    {
+        "nombre": "nini",
+        "descripcion": "kbugvucyf",
+        "stock": "8776",
+        "categoria": "Bermudas",
+        "precio": "864",
+        "imagenes": "19702874.jpg"
+    }
+]
